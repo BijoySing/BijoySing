@@ -5,7 +5,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100054261722335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="75bohemian" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Afnan_91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_75_" height="30" width="40" /></a>
+<a href="https://leetcode.com/BijoySingh7/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="_75_" height="30" width="40" /></a>
+  
+  <a href="https://www.facebook.com/profile.php?id=100054261722335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="75bohemian" height="30" width="40" /></a>
 </p>
 
 ### :hammer_and_wrench: Languages and Tools : 
