@@ -29,8 +29,7 @@
 
 <br>
 
-![BijoySing's GitHub stats](https://github-readme-stats.vercel.app/api?username=BijoySing&show_icons=true&theme=radical)
-
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=BijoySing&show_icons=true&theme=merko#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <br>
 ![GitHub metrics](https://metrics.lecoq.io/BijoySing)
 
