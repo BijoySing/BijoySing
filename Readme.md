@@ -2,10 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slap&size=22&duration=4999&color=F711BC&center=true&vCenter=true&lines=Welcome+to+my+Github+profile;Student+at+CSE+%2C+SUST;DS+%7C+Algo+%7C+OOP)](https://git.io/typing-svg)
 
 ---
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/profile.php?id=100082710284034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="75bohemian" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Afnan_91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_75_" height="30" width="40" /></a>
+
 </p>
 
 ### :hammer_and_wrench: Languages and Tools : 
