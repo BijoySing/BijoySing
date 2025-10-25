@@ -53,11 +53,12 @@
 
 ---
 
-## � Competitive Programming Highlights
+## 🧠 Competitive Programming Highlights
 
-- 🌟 **Codeforces Specialist** (Max Rating: 1403) – [Profile](https://codeforces.com/profile/BijoySingh7)
-- 💡 **LeetCode** (Max Rating: 1642) – [Profile](https://leetcode.com/BijoySingh7)
-- ⭐ **CodeChef 3★** (Rating: 1627) – [Profile](https://codechef.com/users/bijoysingh)
+- 🌟 **Codeforces Specialist** (Max Rating: 1403) – [Profile](https://codeforces.com/profile/Bijoysingh7)
+- 💡 **LeetCode** (Max Rating: 1642) – [Profile](https://leetcode.com/u/Bijoysingh7/)
+- ⭐ **CodeChef 3★** (Rating: 1627) – [Profile](https://www.codechef.com/users/bijoy_sing7)
+- 🏅 **VJudge** (300+ Problems Solved) – [Profile](https://vjudge.net/user/2019331107)
 - 🎯 **2000+ Problems Solved** across multiple platforms
 - 🥇 **7th Place** – LUCC CSE Carnival Hackathon
 - ⚡ **Semi-finalist** – MASTERMIND 2.0 & BIZ Expo 1.0
@@ -159,10 +160,13 @@
 
 ## 🌐 Let's Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bijoy-sing.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bijoy-sing-236a5a1b2)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BijoySing)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/BijoySingh7)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/BijoySingh7)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Bijoysingh7/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Bijoysingh7)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/bijoy_sing7)
+[![VJudge](https://img.shields.io/badge/VJudge-4A90E2?style=for-the-badge&logo=v&logoColor=white)](https://vjudge.net/user/2019331107)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100054261722335)
 
 ---
