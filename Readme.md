@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 💻 Full Stack Developer | 🎓 CSE Student | 🚀 Problem Solver
+### 💻 Software Engineer | 🚀 Problem Solver |
 
 </div>
 
@@ -11,9 +11,9 @@
 ## � About Me
 
 - � **B.Sc. in Computer Science & Engineering** from Shahjalal University of Science and Technology (SUST)
-- 💼 **Software Engineer Intern @ Technext** – Working with React.js, Node.js, and Next.js
+- 💼 **Trainee Software Engineer  @ Softzino Technologies** – Working with FastAPI, and Next.js
 - 🧠 **2000+ Problems Solved** across Codeforces, LeetCode, CodeChef & VJudge
-- � **Innovation Hub Program Winner** (30,000 BDT) – Bangladesh Hi-Tech Park Authority & World Bank
+- � **Innovation Hub Program Winner**  – Bangladesh Hi-Tech Park Authority & World Bank
 - � **Published Researcher** – IEEE Conference on Bengali NLP & Deep Learning
 - 💡 Passionate about Full-Stack Web Development, Modern UI/UX Design & Open Source
 - 📧 Reach me: **bijoysingh573@gmail.com**
