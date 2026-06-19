@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 💻 Software Engineer | 🚀 Problem Solver |
+### 💻 Software Engineer | 🚀 Problem Solver | 🤖 AI Enthusiast
 
 </div>
 
